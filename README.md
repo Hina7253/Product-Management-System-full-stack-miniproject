@@ -62,7 +62,7 @@ React runs on:http://localhost:3001/
 Enable CORS in backend:
 
 ```java
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://localhost:3001")
 
 
 
