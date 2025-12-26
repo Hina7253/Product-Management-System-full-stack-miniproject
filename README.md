@@ -4,7 +4,7 @@ Users can add, update, delete, and view products.
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 ## **Frontend (React):**
 - React.js  
