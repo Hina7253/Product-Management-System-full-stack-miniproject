@@ -23,7 +23,7 @@ Users can add, update, delete, and view products.
 
 ---
 
-
+## 🔧 Backend Setup (Spring Boot - Maven)
 1. Import the project in **Eclipse / IntelliJ**  
 2. Install dependencies:
 3. Configure your database in  
