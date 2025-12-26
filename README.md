@@ -6,7 +6,7 @@ Users can add, update, delete, and view products.
 
 ## 🚀 Tech Stack
 
-### **Frontend (React):**
+## **Frontend (React):**
 - React.js  
 - Axios  
 - Bootstrap  
