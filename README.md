@@ -12,11 +12,7 @@ Users can add, update, delete, and view products.
 - Bootstrap  
 - React Router DOM  
 
-### **Backend (Spring Boot):**
-- Spring Web  
-- Spring MVC  
-- Maven  
-- MySQL / H2 Database (as per your setup)  
+
 
 ---
 
