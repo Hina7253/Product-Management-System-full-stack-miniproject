@@ -1,5 +1,5 @@
 # Full Stack Product Management 
-  
+A simple **Full Stack CRUD Application** built using **React.js (Frontend)** and **Spring Boot + Maven (Backend)**. 
 Users can add, update, delete, and view products.
 
 ---
